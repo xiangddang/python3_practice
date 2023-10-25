@@ -1,0 +1,28 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+__init__.pyc
+*.pyo
+
+# Logs
+*.log
+
+# Environment-specific settings
+.env
+
+# macOS Finder custom folder attributes
+.DS_Store
+
+# Python cache
+.pycache/
+
+# Virtual Environment
+venv/
+这些规则将帮助确保不会将生成的Python文件、日志、环境特定设置、缓存和虚拟环境等不必要的文件提交到GitHub上。你可以根据项目的具体需求和使用情况添加或自定义其他规则。
+
+
+
+
+

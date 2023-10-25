@@ -1,7 +1,7 @@
 import unittest
 import threading
 from mock import patch
-from sms_simulation import SMSSimulation
+from python3_practice.sms_simulation.sms_simulation import SMSSimulation
 
 
 class TestSMSSimulation(unittest.TestCase):
